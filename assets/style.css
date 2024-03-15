@@ -1,10 +1,10 @@
-header {
+/* header {
   padding: 20px;
   background-color: blue;
   color: white;
 }
 
-aside {
+section {
   color: blue;
   border: 2px;
   border-style: solid;
@@ -14,4 +14,4 @@ aside {
 
 main {
   flex-direction: column;
-}
+} */
